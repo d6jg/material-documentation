@@ -92,6 +92,25 @@ span.rvts17
 {
  color: #000000;
 }
+span.rvts18
+{
+ font-family: 'segoe ui';
+ color: #24292e;
+}
+span.rvts19
+{
+ color: #24292e;
+ background-color: #ffffff;
+}
+span.rvts20
+{
+ color: #24292e;
+}
+span.rvts21
+{
+ font-weight: bold;
+ color: #24292e;
+}
 /* ========== Para Styles ========== */
 p,ul,ol /* Paragraph Style */
 {
@@ -131,6 +150,14 @@ p,ul,ol /* Paragraph Style */
  margin: 7px 0px 7px 0px;
 }
 .rvps6
+{
+ text-align: left;
+ text-indent: 0px;
+ background: #ffffff;
+ padding: 0px 0px 0px 0px;
+ margin: 24px 0px 16px 0px;
+}
+.rvps7
 {
  margin: 0px 0px 0px 24px;
 }
